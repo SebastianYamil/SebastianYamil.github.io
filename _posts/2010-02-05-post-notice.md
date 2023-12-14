@@ -24,7 +24,7 @@ header:
 
 ### Eyes Closed
 
-![Relative Potentials](/assets/images/raw_signals.png)
+![Relative Potentials](/assets/images/Raw_potentials.png)
 *Figure 2: Readings of relative potentials (Hz on the x-axis, μV²/Hz on the y-axis).*
 
 Below is the average Power Spectrum (PA) of 3 samples each lasting 12s. In the lateral derivations (histogram to the left), a decrease in the total power spectrum is observed in the T5O1 derivation. The topographic distribution of alpha shows gradual increases from anterior to posterior regions (fronto-occipital gradient) in the right hemisphere, but not in the left, as alpha reaches its highest power in T3T5, while it is much lower in T5O1. Also, there is a 60% asymmetry of alpha in temporo-occipital (TO). Beta PA is higher in fronto-frontal (FF), decreases in fronto-temporal (FT), temporo-temporal (TT), and is asymmetric in TO (44%). Delta presents a “U” shaped profile with higher PA in FF, decreases in FT, decreases again in TT, and slightly increases in TO of AH. Theta is higher in FF, decreases in FT, increases in TT, and decreases again in TO of AH.
@@ -41,5 +41,5 @@ In the condition with eyes closed, there is lower power of the four frequencies 
 
 
 
-![Average Power of Rhythms](/assets/images/average_power.png)
+![Average Power of Rhythms](/assets/images/analyzed_graph.png)
 *Figure 3: Table showing the average power of each rhythm (alpha, delta, theta, and beta) from all tests conducted (4 tests in total).*
