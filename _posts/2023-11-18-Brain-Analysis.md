@@ -32,6 +32,9 @@ Below is the average Power Spectrum (PA) of 3 samples each lasting 12s. In the l
 
 **Interpretation:** The asymmetry of alpha and beta in temporo-occipital regions has been related to paroxysmal hemicranial headache.
 
+![Average Power of Rhythms](/assets/images/analyzed_graph.png)
+*Figure 3: Table showing the average power of each rhythm (alpha, delta, theta, and beta) from all tests conducted (4 tests in total).*
+
 ### Eyes Closed/Open
 
 In the condition with eyes closed, there is lower power of the four frequencies in the left hemisphere (HI) compared to the right side. The asymmetry in the temporo-occipital derivations is noteworthy. Eyelid opening produces a decrease in PA (desynchronization) of alpha in both hemispheres (AH), while beta increases (synchronization) in the left FF, remains unchanged in the right FF, and desynchronizes in the rest of the derivations. Delta desynchronizes in FF of AH and right FT, and in all other derivations it decreases very slightly. Theta slightly desynchronizes in all lateral derivations.
@@ -42,5 +45,3 @@ In the condition with eyes closed, there is lower power of the four frequencies 
 
 
 
-![Average Power of Rhythms](/assets/images/analyzed_graph.png)
-*Figure 3: Table showing the average power of each rhythm (alpha, delta, theta, and beta) from all tests conducted (4 tests in total).*
