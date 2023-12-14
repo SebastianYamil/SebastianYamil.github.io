@@ -2,7 +2,7 @@
 title: "Brain electrical data analysis"
 date: 2023-11-18T15:34:30-04:00
 categories:
-  - Blog
+  - Project
 tags:
   - Clinical Neuroscience
   - Neurobiology
